@@ -1,0 +1,7 @@
+echo "# 7A-CSE-413-Simulation-Modeling-Lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NaFi619/7A-CSE-413-Simulation-Modeling-Lab.git
+git push -u origin main
