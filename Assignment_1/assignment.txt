@@ -1,0 +1,54 @@
+🎯 Assignment for Simulation and Modeling Lab — Day 1
+Course Code: CSE 413 
+Level/Term: 4/1 
+Credit: 3 
+Instructor: Audity Ghosh 
+Submission Deadline: 02/02/2026
+
+
+
+
+✅ Tasks to Complete:
+1. Scalar & Array Operations (Redo Section with Your Own Values):
+·	Run the given code with scalar = 3.7 and a new array of at least 6 elements.
+·	Show outputs of all built-in mathematical functions (sin, cos, tan, etc.).
+2. 2×2 Matrix Calculations (Already Done in Class):
+·	Study and understand the example code given for trigonometric, exponential, logarithmic, and rounding operations on a 2×2 matrix.
+
+
+
+Task: Apply the Same Operations on a 3×2 Matrix
+·	Create a 3×2 matrix with custom values.
+·	Perform and display results of:
+o	Trigonometric functions
+o	Exponential & logarithmic functions
+o	Absolute value & square root
+o	Remainder when divided by 2
+o	Rounding (round, floor, ceil)
+📌 Make sure to clip inputs where needed to avoid math errors (e.g., arcsin/arccos domain issues).
+4. Vector Functions
+·	Understand the operations on the 1D vector shown in the notebook.
+
+
+
+Task: Perform Same Operations on a 2×3 Matrix
+·	Your 2×3 matrix can have float values (e.g., 2.1, 4.7…).
+·	Implement and display:
+o	Max & Min (with indices)
+o	Vector length
+o	Sorted version (both row-wise descending and entire matrix descending)
+o	Sum, Product
+o	Median, Mean, Standard Deviation
+📌 Hint: Use np.sort() with axis=1 for row-wise sorting. Use .flatten() for entire matrix sorting.
+
+
+
+🧠 Bonus (Optional for Extra Marks):
+·	Try to visualize your matrix values using seaborn.heatmap() or matplotlib.
+·	Try replacing static inputs with randomly generated numbers using np.random.uniform() or np.random.randint().
+✅ Checklist Before Submission:
+·	All code cells run without error.
+·	Outputs are clearly visible.
+·	You’ve added comments to explain key lines of code.
+·	The .ipynb file is named like this: SIM_Lab1_YourName_StudentID.ipynb
+
